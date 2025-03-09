@@ -1,8 +1,7 @@
 <?php
 ob_start();
 error_reporting(0);
-define('API_KEY', '922217183:AAGhIkwIEdNfd7XGV_2tWrfXwKxtVLQGxrE'); // توکن ربات
-
+define('API_KEY', 'Your Token');
 //////////////////////////Functions////////////////////////
 function getbio($username)
 {
